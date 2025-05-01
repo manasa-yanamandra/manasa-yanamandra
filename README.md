@@ -32,7 +32,7 @@ My personal project is called AaY (wedding app)..... it is very special to me. S
 - [Github](https://github.com/manasa-yanamandra)
 
 # Curriculum Vitae (PDF)
-[CV](https://github.com/manasa-yanamandra/manasa-yanamandra/blob/main/Manasa%20CV%202025.pdf)
+[MANASA - CV](https://github.com/manasa-yanamandra/manasa-yanamandra/blob/main/Manasa%20CV%202025.pdf)
 
 
 # ⚡ Fun fact
