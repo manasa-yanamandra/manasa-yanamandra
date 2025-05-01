@@ -31,6 +31,10 @@ My personal project is called AaY (wedding app)..... it is very special to me. S
 - [Linkedin](https://www.linkedin.com/in/manasa-yanamandra-910386b8/)
 - [Github](https://github.com/manasa-yanamandra)
 
+# Curriculum Vitae (PDF)
+[CV](https://github.com/manasa-yanamandra/manasa-yanamandra/blob/main/Manasa%20CV%202025.pdf)
+
+
 # ⚡ Fun fact
 Honey bees can become intoxicated if they consume fermented nectar or tree sap, leading to wobbly flights and sometimes even getting kicked out of the hive until they sober up
 
