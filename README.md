@@ -9,8 +9,8 @@ Kia Ora! I’m Manasa, a Full Stack Developer who thrives on transforming curios
 - 😄 Pronouns: 
 she/her
 
-- 🧑‍💻 Projects
-GearedUp - Final Group Project
+- 🧑‍💻 Projects: 
+GearedUp - Final Group Project; 
 Aay - Personal Project
 
 - 🌱 Tech Stack 
