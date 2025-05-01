@@ -28,8 +28,8 @@ she/her
 My personal project is called AaY (wedding app)..... it is very special to me. So, I'm going to continue on this project. I'm going to give this finished website to my brother and his partner during their wedding.
 
 # 📫 How to reach me...
-- [Linkedin]https://www.linkedin.com/in/manasa-yanamandra-910386b8/
-- [Github]https://github.com/manasa-yanamandra
+- [Linkedin](https://www.linkedin.com/in/manasa-yanamandra-910386b8/)
+- [Github](https://github.com/manasa-yanamandra)
 
 # ⚡ Fun fact
 Honey bees can become intoxicated if they consume fermented nectar or tree sap, leading to wobbly flights and sometimes even getting kicked out of the hive until they sober up
