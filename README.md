@@ -22,7 +22,7 @@ Deployment: Github pages
 - 🔭 Currently working on ...
 My personal project called AaY (wedding app)..... it is very special to me. So, I'm going to continue on this project. I'm going to gift this finished website to my brother and his partner during their wedding.
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 https://www.linkedin.com/in/manasa-yanamandra-910386b8/
 https://github.com/manasa-yanamandra
 
