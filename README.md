@@ -25,7 +25,7 @@ she/her
 - Testing: Unit Testing, Integration Testing
 
 # 🔭 Currently working on...
-My personal project is called AaY (wedding app)..... it is very special to me. So, I'm going to continue on this project. I'm going to give this finished website to my brother and his partner during their wedding.
+My personal project is called AaY (a wedding app)..... It is very special to me, so, I'm going to continue on this project. I plan to give this finished website to my brother and his partner for their wedding.
 
 # 📫 How to reach me...
 - [Linkedin](https://www.linkedin.com/in/manasa-yanamandra-910386b8/)
